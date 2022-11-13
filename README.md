@@ -4,9 +4,19 @@ Decentralizing Blockchain with transactions...
 
 <br>
 
-<hr>
+**Get code on your machine:**
 
-## Execution & Deployment 🌌
+    git clone https://github.com/prathameshbelurkar/Blockchains.git
+
+<br>
+
+### Installing libraries
+
+    pip install -r requirements.txt
+
+<br>
+
+### Execution & Deployment 🌌
 
 1. Getting Code on your Local Machine, Three ways:
 
