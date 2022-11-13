@@ -1,2 +1,6 @@
-Flask==0.12.2
+certifi==2022.9.24
+chardet==3.0.4
+idna==2.6
 requests==2.18.4
+urllib3==1.22
+word2number==1.1
