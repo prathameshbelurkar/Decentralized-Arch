@@ -1,9 +1,10 @@
 certifi==2022.9.24
 chardet==3.0.4
 idna==2.6
-datetime==4^
-hashlib==3^
-json==0^
+datetime==4
+hashlib
+json
+jsonify
 flask==0.12.2
 requests==2.18.4
 urllib3==1.22
