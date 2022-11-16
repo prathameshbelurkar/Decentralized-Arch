@@ -1,12 +1,22 @@
 ## Decentralize Blockchain
 
-Decentralizing Blockchain with transactions...
+Flask based distributed-ledger implementation with any amount of nodes in a network 🌐
+
+Features:
+
+- Web 3.0
+- Decentralization
+- Mining
+- Consensus across nodes
+- Cryptocurrency
+- Transactions
+- Hashing
 
 <br>
 
 **Get code on your machine:**
 
-    git clone https://github.com/prathameshbelurkar/Blockchains.git
+    https://github.com/prathameshbelurkar/Decentralize-Blockchain.git
 
 <br>
 
@@ -30,3 +40,6 @@ Decentralizing Blockchain with transactions...
    - GET Request for display Blockchain: http://127.0.0.1:5000/get_chain
    - GET Request for Mine Block: http://127.0.0.1:5000/mine_block
    - GET Request for check valid Blockchain: http://127.0.0.1:5000/is_valid
+   - POST Request for consensus: http://127.0.0.1:5000/replace_chain
+   - POST Request for add transaction: http://127.0.0.1:5000/add_transaction
+   - POST Request to connect node: http://127.0.0.1:5000/connect_node
