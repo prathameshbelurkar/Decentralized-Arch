@@ -1,13 +1,5 @@
 ## Decentralize Blockchain
 
-<br>
-
-<p align="center">
-<img src="https://miro.medium.com/max/640/1*0G5zu7CnXdMT9pGbYUTQLQ.png" width=300 />
-</p>
-
-<br>
-
 Flask based backend application implements distributed-ledger blockchain with any amount of nodes in a network 🌐
 
 Features:
@@ -21,6 +13,30 @@ Features:
 - Hashing
 
 <br>
+
+<p align="center">
+<img src="https://images.unsplash.com/photo-1639322537504-6427a16b0a28?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80" width=500 />
+</p>
+
+<br>
+
+<br>
+
+## Flask
+
+Flask is a web framework, it’s a Python module that lets you develop web applications easily. It’s has a small and easy-to-extend core: it’s a microframework that doesn’t include an ORM (Object Relational Manager) or such features.
+
+It does have many cool features like url routing, template engine. It is a WSGI web app framework.
+
+<br>
+
+<p align="center">
+<img src="https://miro.medium.com/max/640/1*0G5zu7CnXdMT9pGbYUTQLQ.png" width=300 />
+</p>
+
+<br>
+
+<hr>
 
 **Get code on your machine:**
 
