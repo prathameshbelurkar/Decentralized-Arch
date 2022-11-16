@@ -1,6 +1,14 @@
 ## Decentralize Blockchain
 
-Flask based distributed-ledger implementation with any amount of nodes in a network 🌐
+<br>
+
+<p align="center">
+<img src="https://miro.medium.com/max/640/1*0G5zu7CnXdMT9pGbYUTQLQ.png" width=300 />
+</p>
+
+<br>
+
+Flask based backend application implements distributed-ledger blockchain with any amount of nodes in a network 🌐
 
 Features:
 
